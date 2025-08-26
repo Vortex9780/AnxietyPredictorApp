@@ -1,0 +1,30 @@
+# React Native / Node
+AnxietyApp/node_modules/
+AnxietyApp/ios/Pods/
+AnxietyApp/android/.gradle/
+AnxietyApp/android/app/build/
+AnxietyApp/.expo/
+AnxietyApp/.idea/
+AnxietyApp/.vscode/
+AnxietyApp/.turbo/
+AnxietyApp/*.keystore
+
+# Python
+AnxietyPredictor_ML/.venv/
+AnxietyPredictor_ML/__pycache__/
+AnxietyPredictor_ML/*.pyc
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
+
+# Secrets
+*.env
+.env*
+
+# Artifacts
+*.zip
+*.tar.gz
+# Model bundles (use Git LFS if you want to version these)
+# AnxietyPredictor_ML/*.pkl
